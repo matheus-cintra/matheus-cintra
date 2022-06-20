@@ -39,7 +39,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/matheus-cintra/matheus-cintra/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/matheus-cintra/matheus-cintra/output/snake.svg" alt="Snake animation" />
 
 ###
 
