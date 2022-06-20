@@ -38,9 +38,11 @@
 </div>
 
 ###
+
 <div align="center">
   <img src="http://raw.githubusercontent.com/matheus-cintra/matheus-cintra/output/snake.svg#gh-dark-mode-only" alt="Snake animation" />
 </div>
+
 ###
 
 <div align="center">
