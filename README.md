@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/matheus-cintra/count.svg?"  />
+  ![](https://komarev.com/ghpvc/?username=matheus-cintra)
 </div>
 
 ###
