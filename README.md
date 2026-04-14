@@ -48,9 +48,3 @@
   </p>
 
 ###
-
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=matheus-cintra)
-</div>
-
-###
