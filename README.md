@@ -41,12 +41,9 @@
 
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-cintra/matheus-cintra/
-  output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-cintra/matheus-cintra/
-  output/github-snake.svg" />
-      <img alt="github contribution snake" src="https://raw.githubusercontent.com/matheus-cintra/matheus-cintra/output/
-  github-snake.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-cintra/matheus-cintra/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-cintra/matheus-cintra/output/github-snake.svg" />
+      <img alt="github contribution snake" src="https://raw.githubusercontent.com/matheus-cintra/matheus-cintra/output/github-snake.svg" />
     </picture>
   </p>
 
