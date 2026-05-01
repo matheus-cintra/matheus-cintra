@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00D9FF&height=180&section=header&text=Matheus%20Cintra&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A5ACD,100:00D9FF&amp;height=180&amp;section=header&amp;text=Matheus%20Cintra&amp;fontSize=42&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+FullStack;Node.js+%7C+TypeScript+%7C+React;Construindo+sistemas+web+escal%C3%A1veis;Transformando+ideias+em+produtos+reais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Desenvolvedor+FullStack;Node.js+%7C+TypeScript+%7C+React;Construindo+sistemas+web+escal%C3%A1veis;Transformando+ideias+em+produtos+reais" alt="Typing SVG" />
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=matheus-cintra&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=matheus-cintra&amp;label=Profile%20views&amp;color=00d9ff&amp;style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -48,15 +48,18 @@ Gosto de construir produtos digitais que saem do papel e resolvem problemas reai
     </td>
     <td width="45%" align="center">
 
-<img 
-  src="https://i.imgur.com/A6yiN0R.gif" 
-  width="360"
-  alt="Developer animation"
-/>
+### ⚡ Tech + Produto + Código
 
 <br />
 
-### ⚡ Tech + Produto + Código
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=420&amp;lines=Backend+Architecture;Frontend+Experience;Cloud+Deployments;SaaS+Products;Clean+Code+%26+Scalability" alt="Tech typing animation" />
+
+<br />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=matheus-cintra&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=FFFFFF" width="100%" alt="GitHub Stats" />
+
+<br />
 
 <strong>Construindo soluções digitais com propósito.</strong>
 
@@ -77,25 +80,37 @@ Gosto de construir produtos digitais que saem do papel e resolvem problemas reai
     <td align="center" width="25%">
       <strong>Backend</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,ts,js,nestjs,express" />
+      <img src="https://skillicons.dev/icons?i=nodejs,ts,js,nestjs,express" alt="Backend stack" />
     </td>
     <td align="center" width="25%">
       <strong>Frontend</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend stack" />
     </td>
     <td align="center" width="25%">
       <strong>Database</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Database stack" />
     </td>
     <td align="center" width="25%">
-      <strong>DevOps & Tools</strong>
+      <strong>DevOps & Cloud</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gcp,aws" />
+      <img src="https://skillicons.dev/icons?i=docker,linux,gcp,aws,heroku" alt="DevOps and Cloud stack" />
     </td>
   </tr>
 </table>
+
+<br />
+
+<div align="center">
+
+### ⚙️ Ferramentas que uso no dia a dia
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,npm,vscode" alt="Tools" />
+
+</div>
 
 ---
 
@@ -107,12 +122,14 @@ Gosto de construir produtos digitais que saem do papel e resolvem problemas reai
 
 <img 
   height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=matheus-cintra&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" 
+  src="https://github-readme-stats.vercel.app/api?username=matheus-cintra&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=FFFFFF" 
+  alt="GitHub Stats"
 />
 
 <img 
   height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-cintra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-cintra&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=FFFFFF" 
+  alt="Top Languages"
 />
 
 <br />
@@ -120,7 +137,8 @@ Gosto de construir produtos digitais que saem do papel e resolvem problemas reai
 
 <img 
   width="90%" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-cintra&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" 
+  src="https://streak-stats.demolab.com?user=matheus-cintra&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D9FF&amp;ring=00D9FF&amp;fire=00D9FF&amp;currStreakLabel=00D9FF" 
+  alt="GitHub Streak"
 />
 
 </div>
@@ -146,6 +164,20 @@ Gosto de construir produtos digitais que saem do papel e resolvem problemas reai
     <td width="33%" align="center">
       <h3>☁️ Cloud</h3>
       <p>Deploy, containers, bancos de dados, automações e infraestrutura.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🧠 Arquitetura</h3>
+      <p>Organização de código, boas práticas, escalabilidade e manutenção.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🛠️ Sistemas Internos</h3>
+      <p>Ferramentas para otimizar processos, times e operações.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>📦 Produtos Digitais</h3>
+      <p>Ideias transformadas em soluções reais com foco em resultado.</p>
     </td>
   </tr>
 </table>
@@ -184,15 +216,15 @@ Gosto de construir produtos digitais que saem do papel e resolvem problemas reai
 <br />
 
 <a href="https://github.com/matheus-cintra">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/matheus-cintra">
-  <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:matheus.fcintra@synvia.com">
-  <img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -201,6 +233,10 @@ Gosto de construir produtos digitais que saem do papel e resolvem problemas reai
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A5ACD&height=120&section=footer"/>
+### 💬 “Transformando ideias em sistemas reais, escaláveis e bem construídos.”
+
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D9FF,100:6A5ACD&amp;height=120&amp;section=footer" />
 
 </div>
