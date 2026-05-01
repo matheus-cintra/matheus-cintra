@@ -49,7 +49,7 @@ Gosto de construir produtos digitais que saem do papel e resolvem problemas reai
     <td width="45%" align="center">
 
 <img 
-  src="https://camo.githubusercontent.com/534e02bb6518cd3529bd38725727d9096a98cc0b38b169788dc274f00da79ee6/68747470733a2f2f692e696d6775722e636f6d2f413675694e30522e676966" 
+  src="https://i.imgur.com/A6yiN0R.gif" 
   width="360"
   alt="Developer animation"
 />
